@@ -1,4 +1,6 @@
 site_name: Entity Generator
+site_url: https://kalinin-maksim.io/jpa-gen/
+
 # GitHub Repository Configuration
 repo_name: kalinin-maksim/jpa-gen
 repo_url: https://github.com/kalinin-maksim/jpa-gen
