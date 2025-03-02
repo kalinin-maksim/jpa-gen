@@ -6,9 +6,19 @@ repo_name: kalinin-maksim/jpa-gen
 repo_url: https://github.com/kalinin-maksim/jpa-gen
 
 nav:
-  - index: index.md
   - Home: home.md
   - About: about.md
 
 theme:
   name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-4
+        name: Темное оформление
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-7
+        name: Светлое оформление
